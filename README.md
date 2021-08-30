@@ -1,16 +1,20 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0054ff&height=250&section=header&text=꿈나무%20강민구&fontSize=70&fontColor=353535&fontAlign=40&fontAlignY=40&desc=Mingu%20Kang%20[k-min9]&descAlign=60)
 
-<!--
-**k-min9/k-min9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingu4969)](https://solved.ac/mingu4969/)
 
-Here are some ideas to get you started:
+# 환영 메시지
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 기술 스택
+
+### 언어
+
+### Frameworks
+
+## 배우는 중
+
+## 관심 있는 것
+
+## 소속(Experiences)
+
+## 기타
+뱃지 추가  
