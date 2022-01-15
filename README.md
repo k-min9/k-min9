@@ -45,7 +45,7 @@
 ## 프로젝트(Portfolio, Example of works)
 
 - Movie Curators (영화 정보 제공, 빅데이터 머신러닝 기반 영화 추천 커뮤니티)
-  - 배포 site  : https://www.moviecurators.com
+  - 배포 site  : https://moviecurators.com
   - 사용 tech :  https://github.com/k-min9/MovieCurators
 
 ## Info
