@@ -17,6 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin:1px;"/>C#
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin:1px;"/>JavaScript
 </p>
+
 ### Backend
 
 <p align="left">
@@ -46,8 +47,8 @@
 - BH 계리 컨설팅(여의도 보험 계리 금융 법인) [2019.10 ~ 2020.05]
   - 금융 솔루션 제작 및 프로젝트 수행 (C, C#)  
 - 삼성 청년 소프트웨어 아카데미(SSAFY) [21.07 ~ 현재]
-  - 1학기 최종 프로젝트 경진대회 최우수상
-  - 2학기 공통 프로젝트 경진대회 최우수상
+  - 1학기 최종 프로젝트 경진대회 최우수상 (프로젝트명 : Movie Curators)
+  - 2학기 공통 프로젝트 경진대회 최우수상 (프로젝트명 : TUPLI)
 
 ## 프로젝트(Portfolio, Example of works)
 
