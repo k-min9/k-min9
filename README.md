@@ -65,7 +65,7 @@
 
 - TUPLI (유튜브 취향 공유, 동시 시청 지원 SNS)
   - UCC : https://www.youtube.com/watch?v=WU3tIIOS0Ec&feature=youtu.be (1:23)
-  - 배포 site : https://tupli.kr/(모바일 환경 추천)
+  - 배포 site : https://tupli.kr/ (모바일 환경 추천)
   - 사용 tech : https://github.com/hotsix-turtles/TUPLI
   - 핵심 컨셉 : 취향 분석, 동시 시청(+ 채팅), 취향 공유, 뱃지 게이미피케이션
   - 핵심 기술 : Spring, JPA, Querydsl, WebSocket+REDIS, Flask+Scikit-learn
