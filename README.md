@@ -22,7 +22,7 @@
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="40"/>Spring
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="50" height="50"/>Django
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="50" height="50"/>Django
 <img src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> Flask
 </p>
 
