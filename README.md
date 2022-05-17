@@ -83,8 +83,9 @@
 
 ### Computer Science on CSAFY
 
-[![Project Profile](https://csafy.com/api/v4/card/mingu4969@gmail.com)](https://csafy.com/)
+
 
 ### Github Streak
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k-min9&theme=blueberry)](https://git.io/streak-stats)
+
