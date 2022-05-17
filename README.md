@@ -83,7 +83,7 @@
 
 ### Computer Science on CSAFY
 
-
+[![Project Profile](https://csafy.com/api/v4/card/mingu4969@gmail.com)](https://csafy.com/)
 
 ### Github Streak
 
