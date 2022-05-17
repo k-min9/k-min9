@@ -77,9 +77,13 @@
 
 ## Info
 
-### Algorithm
+### Algorithm on BOJ
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingu4969)](https://solved.ac/mingu4969/)
+
+### Computer Science on CSAFY
+
+[![Project Profile](https://csafy.com/api/v4/card/mingu4969@gmail.com)](https://csafy.com/)
 
 ### Github Streak
 
