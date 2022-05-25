@@ -66,13 +66,14 @@
 - TUPLI (유튜브 취향 공유, 동시 시청 지원 SNS)
   - UCC : https://www.youtube.com/watch?v=WU3tIIOS0Ec&feature=youtu.be (1:23)
   - 배포 site : https://tupli.kr/ (모바일 환경 추천)
-  - 사용 tech : https://github.com/hotsix-turtles/TUPLI
-  - 핵심 컨셉 : 취향 분석, 동시 시청(+ 채팅), 취향 공유, 뱃지 게이미피케이션
+  - Github with README : https://github.com/hotsix-turtles/TUPLI
   - 핵심 기술 : Spring, JPA, Querydsl, WebSocket+REDIS, Flask+Scikit-learn
+  - 핵심 컨셉 : 취향 분석, 동시 시청(+ 채팅), 취향 공유, 뱃지 게이미피케이션
+  
 
 - Movie Curators (영화 정보 제공, 빅데이터 머신러닝 기반 영화 추천 커뮤니티)
   - 배포 site  : <https://moviecurators.com>
-  - 사용 tech :  <https://github.com/k-min9/MovieCurators>
+  - Github with README :  <https://github.com/k-min9/MovieCurators>
   - 핵심 컨셉 : Django vs Spring, 빅데이터 머신러닝 추천, BM을 고려한 결제모듈
 
 ## Info
@@ -81,9 +82,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingu4969)](https://solved.ac/mingu4969/)
 
-### Computer Science on CSAFY
-
-[![Project Profile](https://csafy.com/api/v4/card/mingu4969@gmail.com)](https://csafy.com/)
 
 ### Github Streak
 
