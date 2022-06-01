@@ -60,15 +60,37 @@
 - 삼성 청년 소프트웨어 아카데미(SSAFY) [21.07 ~ 현재]
   - 1학기 최종 프로젝트 경진대회 최우수상 (프로젝트명 : Movie Curators)
   - 2학기 공통 프로젝트 경진대회 최우수상 (프로젝트명 : TUPLI)
+  - 2학기 특화 프로젝트 경진대회 최우수상 (프로젝트명 : NFTicket)
+  - 2학기 자율 프로젝트 경진대회 최우수상 + 결선 전국 1등 (프로젝트명 : C;SAFY)
 
 ## 프로젝트(Portfolio, Example of works)
 
+- C;SAFY (CS/기술 면접 학습 서비스)
+  - 개요 : 삼성청년SW아카데미 6기 자율 전국 1등 프로젝트
+  - UCC :https://www.youtube.com/watch?v=vC_rSzX2tU4 (2:17)
+  - 배포 site : https://csafy.com
+  - Github with README : 프로젝트 반출중
+  - 핵심 기술 : Spring, JPA, Querydsl, Spring Cloud(+MSA), Flask, Unity(+Photon Network), Android Native
+  - 핵심 컨셉 : 대용량 트래픽을 고려한 MSA, '웹, 앱, 메타버스' 제공 멀티 플랫폼
+  - 역할 : 팀장, Backend, Unity 메타버스, Android Native, 기술서 작성
+
+- NFTicket (블록체인 기반 고유 NFT 티켓 거래 플랫폼)
+  - 개요 : 삼성청년SW아카데미 6기 특화 우수프로젝트(1등), 8기 모집 설명회 선정 프로젝트  
+    (https://www.youtube.com/watch?v=SfTaPrqWKl8&t=363s / 6분 2초 ~ 9분 24초)  
+  - UCC : https://www.youtube.com/watch?v=lelttBR33Qo
+  - Github with README : https://github.com/NFTTicketProject/NFTicket
+  - 핵심 기술 : Solidity(+ERC-20, ERC-721), BESU Web3.0, Solidity, IPFS, React, Unity(+Photon Network), ToastUI Image Editor
+  - 핵심 컨셉 : 탈중앙화, QR 실물티켓거래(+디지털 보증서), 티켓 꾸미기, 2차 시장, 메타버스 전시장(+커뮤니티)
+  - 역할 : 팀장, 풀스택, Web3.0(+Smart Contract), Unity 메타버스, 기술서 작성
+
 - TUPLI (유튜브 취향 공유, 동시 시청 지원 SNS)
-  - UCC : https://www.youtube.com/watch?v=WU3tIIOS0Ec&feature=youtu.be (1:23)
+  - 개요 : 삼성청년SW아카데미 6기 공통 우수프로젝트(1등)
+  - UCC : https://www.youtube.com/watch?v=WU3tIIOS0Ec& (1:23)
   - 배포 site : https://tupli.kr/ (모바일 환경 추천)
   - Github with README : https://github.com/hotsix-turtles/TUPLI
   - 핵심 기술 : Spring, JPA, Querydsl, WebSocket+REDIS, Flask+Scikit-learn
   - 핵심 컨셉 : 취향 분석, 동시 시청(+ 채팅), 취향 공유, 뱃지 게이미피케이션
+  - 역할 : 팀장, Backend, 기술서 작성
   
 
 - Movie Curators (영화 정보 제공, 빅데이터 머신러닝 기반 영화 추천 커뮤니티)
