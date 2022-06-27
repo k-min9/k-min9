@@ -69,7 +69,7 @@
   - 개요 : 삼성청년SW아카데미 6기 자율 전국 1등 프로젝트
   - UCC :https://www.youtube.com/watch?v=vC_rSzX2tU4 (2:17)
   - 배포 site : https://csafy.com
-  - Github with README : 프로젝트 반출중
+  - Github with README : https://github.com/CSAFY/CSAFY
   - 핵심 기술 : Spring, JPA, Querydsl, Spring Cloud(+MSA), Flask, Unity(+Photon Network), Android Native
   - 핵심 컨셉 : 대용량 트래픽을 고려한 MSA, '웹, 앱, 메타버스' 제공 멀티 플랫폼
   - 역할 : 팀장, Backend, Unity 메타버스, Android Native, 기술서 작성
