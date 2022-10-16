@@ -62,6 +62,8 @@
   - 2학기 공통 프로젝트 경진대회 최우수상 (프로젝트명 : TUPLI)
   - 2학기 특화 프로젝트 경진대회 최우수상 (프로젝트명 : NFTicket)
   - 2학기 자율 프로젝트 경진대회 최우수상 + 결선 전국 1등 (프로젝트명 : C;SAFY)
+  - 개인 부문 삼성전자 대표이사 우수상
+- LG CNS [22.07 ~ 현재]
 
 ## 프로젝트(Portfolio, Example of works)
 
@@ -75,8 +77,8 @@
   - 역할 : **팀장, Backend**, Unity 메타버스, Android Native, 기술서 작성
 
 - NFTicket (블록체인 기반 고유 NFT 티켓 거래 플랫폼)
-  - 개요 : 삼성청년SW아카데미 6기 특화 **우수프로젝트(1등)**, 8기 모집 설명회 선정 프로젝트  
-    (https://www.youtube.com/watch?v=SfTaPrqWKl8&t=363s / 6분 2초 ~ 9분 24초)  
+  - 개요 : 삼성청년SW아카데미 6기 특화 **우수프로젝트(1등)**, 8기 모집 설명회 선정 프로젝트 ([Youtube](https://www.youtube.com/watch?v=SfTaPrqWKl8&t=363s) / 6분 2초 ~ 9분 24초)  
+    메타버스 개발자 경진대회 자유부문(일반) 1등, **전체 부문 최우수상(1000만원)** [링크](https://www.metaversedev.kr/board_notice/%EC%B5%9C%EC%A2%85-%EA%B2%B0%EA%B3%BC-%EB%B0%9C%ED%91%9C-2022-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%B5%9C%EC%A2%85-%EA%B2%B0%EA%B3%BC-%EB%B0%9C%ED%91%9C)
   - UCC : https://www.youtube.com/watch?v=lelttBR33Qo
   - Github with README : https://github.com/NFTTicketProject/NFTicket
   - 핵심 기술 : Solidity(+ERC-20, ERC-721), BESU Web3.0, Solidity, IPFS, React, Unity(+Photon Network), ToastUI Image Editor
