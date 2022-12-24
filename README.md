@@ -52,6 +52,7 @@
 - 정보처리기사 : 2021.11
 - 빅데이터분석기사 : 2021.12
 - SQLD : 2021.12
+- Azure Fundamentals : 2022.12
 
 ## 소속(Experiences)
 
