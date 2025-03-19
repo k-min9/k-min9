@@ -53,7 +53,7 @@
 - 빅데이터분석기사 : 2021.12
 - SQLD : 2021.12
 - Azure Fundamentals : 2022.12
-- Azure Azure AI Engineer Associate : 2025.03
+- Azure AI Engineer Associate(★★) : 2025.03
 
 ## 소속(Experiences)
 
