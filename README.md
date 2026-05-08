@@ -90,6 +90,7 @@
 ### Algorithm on BOJ
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingu4969)](https://solved.ac/mingu4969/)
+<!--[![mazassumnida](./generate_badge.svg)](https://solved.ac/mingu4969)-->
 
 
 ### Github Streak
